@@ -7,6 +7,8 @@
     <groupId>org.jiuyu</groupId>
     <artifactId>alibaba_taishan</artifactId>
     <version>1.0-SNAPSHOT</version>
+	<!--分支alibaba_taishan2_fix：-->
+	<!--解决严重的问题-->
     <build>
         <plugins>
             <plugin>
